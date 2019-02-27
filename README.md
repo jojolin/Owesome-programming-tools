@@ -30,8 +30,8 @@
   - Fiddler : 网络编程必备
 
   - notepad++下插件
-  - MIME Tools : 网络编程常用字符编解码（省了经常要打开Fiddler）
-  - JSTool : Js和Json美化及压缩
+    - MIME Tools : 网络编程常用字符编解码（省了经常要打开Fiddler）
+    - JSTool : Js和Json美化及压缩
   
   - gvim : 编辑功能很强大，处理数据很方便
 
