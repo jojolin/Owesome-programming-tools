@@ -71,4 +71,4 @@
 - IntelliJ IDEA : 开发Java的都在用吧
 
 ## 最后的最后
-- hhkb 真是好用，顺便提一下，我的是无刻hhkb ^_^
+- hhkb 真是好用，顺便提一下，我的是无刻hhkb :kissing_heart:
