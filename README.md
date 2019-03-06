@@ -14,6 +14,7 @@
 - windows
 - python
 - java
+- 其他
 
 ### general
 - linux环境
@@ -69,6 +70,10 @@
 
 ### Java
 - IntelliJ IDEA : 开发Java的都在用吧
+
+### 其他
+- Sphinx: 文档工具， [doc](https://docs.readthedocs.io/en/latest/intro/getting-started-with-sphinx.html)
+  - sphinx_rtd_theme: 一个很好很熟悉的主题模板 [doc](https://sphinx-rtd-theme.readthedocs.io/en/stable/installing.html)
 
 ## 最后的最后
 - hhkb 真是好用，顺便提一下，我的是无刻hhkb :kissing_heart:
